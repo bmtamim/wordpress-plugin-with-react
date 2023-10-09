@@ -1,0 +1,12 @@
+{
+  "name": "tamim/wp_rest_api_with_react",
+  "description": "This is basic test plugin",
+  "type": "wordpress-plugin",
+  "license": "GPL-2.0",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  },
+  "require": {}
+}
